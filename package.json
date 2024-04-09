@@ -12,5 +12,9 @@
   },
   "scripts": {
     "wdio": "wdio run wdio.conf.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "follow-redirects": "^1.15.6"
   }
 }
