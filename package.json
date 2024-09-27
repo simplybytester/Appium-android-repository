@@ -14,11 +14,14 @@
     "wdio": "wdio run wdio.conf.js"
   },
   "dependencies": {
-    "axios": "^1.7.5",
+    "axios": "^1.7.4",
+    "body-parser": "^1.20.3",
     "braces": "^3.0.3",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "follow-redirects": "^1.15.6",
+    "path-to-regexp": "^0.1.10",
+    "send": "^0.19.0",
+    "serve-static": "^1.16.0",
     "ws": "^8.17.1"
   }
-  
 }
