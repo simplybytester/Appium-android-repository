@@ -1,13 +1,13 @@
 {
   "name": "appium-android-repository",
   "devDependencies": {
-    "@wdio/appium-service": "^8.0.9",
-    "@wdio/cli": "^7.16.4",
-    "@wdio/local-runner": "^7.16.4",
-    "@wdio/mocha-framework": "^8.27.2",
-    "@wdio/spec-reporter": "^8.27.2",
-    "appium": "^2.3.0",
-    "appium-uiautomator2-driver": "^2.38.0",
+    "@wdio/appium-service": "^9.4.5",
+    "@wdio/cli": "^9.4.5",
+    "@wdio/local-runner": "^9.4.5",
+    "@wdio/mocha-framework": "^9.4.4",
+    "@wdio/spec-reporter": "^9.4.4",
+    "appium": "^2.13.1",
+    "appium-uiautomator2-driver": "^3.9.5",
     "ts-node": "^10.9.2"
   },
   "scripts": {
@@ -15,8 +15,10 @@
   },
   "dependencies": {
     "braces": "^3.0.3",
-    "express": "^4.19.2",
-    "follow-redirects": "^1.15.6",
+    "cookie": "^1.0.2",
+    "express": "^4.21.2",
+    "follow-redirects": "^1.15.9",
+    "path-to-regexp": "^8.2.0",
     "ws": "^8.18.0"
   }
 }
