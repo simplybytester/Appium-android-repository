@@ -22,8 +22,5 @@
     "follow-redirects": "^1.15.9",
     "path-to-regexp": "^0.1.12",
     "ws": "^8.18.0"
-  },
-  "overrides": {
-    "path-to-regexp": "0.1.12"
   }
 }
